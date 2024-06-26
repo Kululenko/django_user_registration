@@ -1,5 +1,7 @@
 Django User Authentication Project
 
+IF YOU WANT TO SEE THE CODE ITS UNDER THE BRANCH "MASTER"
+
 This repository contains a Django project that implements user registration, validation, login, and logout functionality
 
 Features
